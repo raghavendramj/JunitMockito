@@ -1,0 +1,6 @@
+com\vogella\junit5\User.class
+com\vogella\junit5\Service.class
+com\vogella\junit5\Database.class
+com\vogella\junit5\ArticleDatabase.class
+com\vogella\junit5\ArticleManager.class
+com\learning\junitmockito\JunitmockitoApplication.class
